@@ -15,7 +15,7 @@ Modelagem relacional com definição de Primary Keys e Foreign Keys
 
  Implementação de integridade referencial
 
- Inserção, atualização e exclusão de dados (CRUD)
+ Inserção, atualização e exclusão de dados 
  
  Controle de Identity com DBCC CHECKIDENT
 
